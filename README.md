@@ -1,0 +1,20 @@
+# Study Notes
+
+A simple static page to collect study and project notes. Open `index.html` in a browser to view or edit content.
+
+## Files
+- `index.html`: HTML scaffold for the notes page.
+- `index.css`: Stylesheet currently holding the backlog items as comments; expand it with real styles when ready.
+
+## Roadmap
+- [ ] Write about edge functions.
+- [ ] Write about Rideflow (overview and details).
+- [ ] Finish Rideflow notes.
+- [x] Start stage 2 with Twig.
+- [x] Start with Vue.
+- [ ] Start Next.js project.
+- [ ] Start React Native project.
+- [ ] Start Coursera full-stack project.
+- [ ] Continue Udemy MERN house project.
+- [ ] Resume Udemy course.
+-   Started free certification courses
