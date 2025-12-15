@@ -18,4 +18,4 @@ A simple static page to collect study and project notes. Open `index.html` in a 
 - [ ] Continue Udemy MERN house project.
 - [ ] Resume Udemy course.
 -   Started free certification courses
-*** Start Emerging Tech Course ( Blockchain , Cloud Computing )
+*** Start Emerging Tech Course ( Blockchain , Cloud Computing. DataAnalysis ) 
