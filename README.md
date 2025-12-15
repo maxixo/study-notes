@@ -19,3 +19,6 @@ A simple static page to collect study and project notes. Open `index.html` in a 
 - [ ] Resume Udemy course.
 -   Started free certification courses
 *** Start Emerging Tech Course ( Blockchain , Cloud Computing. DataAnalysis ) 
+Started Linux foundation Cybersecurity 
+Finished Emerging Tech Course
+
