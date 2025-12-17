@@ -17,8 +17,9 @@ A simple static page to collect study and project notes. Open `index.html` in a 
 - [ ] Start Coursera full-stack project.
 - [ ] Continue Udemy MERN house project.
 - [ ] Resume Udemy course.
--   Started free certification courses
-*** Start Emerging Tech Course ( Blockchain , Cloud Computing. DataAnalysis ) 
-Started Linux foundation Cybersecurity 
-Finished Emerging Tech Course
-
+- [x] Started free certification courses.
+- [x] Started Emerging Tech Course (Blockchain, Cloud Computing, Data Analysis).
+- [x] Started Linux Foundation cybersecurity.
+- [x] Finished Emerging Tech Course.
+- [x] Finished Cybersecurity Essentials.
+- [x] Finished JavaScript security course.
