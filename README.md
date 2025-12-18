@@ -23,3 +23,4 @@ A simple static page to collect study and project notes. Open `index.html` in a 
 - [x] Finished Emerging Tech Course.
 - [x] Finished Cybersecurity Essentials.
 - [x] Finished JavaScript security course.
+- Implemented google sign up functionality using firebase
