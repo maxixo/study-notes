@@ -26,3 +26,4 @@ A simple static page to collect study and project notes. Open `index.html` in a 
 - Implemented google sign up functionality using firebase
 Completed profile page ui
 Added image functionality and save to database 
+Added update user details functionality
