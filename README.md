@@ -28,3 +28,4 @@ Completed profile page ui
 Added image functionality and save to database 
 Added update user details functionality
 Started google cert course 
+implemented user upload image functionality 
