@@ -31,3 +31,4 @@ Started google cert course
 implemented user upload image functionality 
 started mongoDB CRUD course 
 Learnt how to implement search functionality routes
+Started fullstack web3 project 
