@@ -30,3 +30,4 @@ Added update user details functionality
 Started google cert course 
 implemented user upload image functionality 
 started mongoDB CRUD course 
+Learnt how to implement search functionality routes
