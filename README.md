@@ -33,3 +33,4 @@ started mongoDB CRUD course
 Learnt how to implement search functionality routes
 Started fullstack web3 project 
 Started NODE JS complete developer course 
+80% through full stack mern project
