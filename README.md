@@ -36,3 +36,4 @@ Started NODE JS complete developer course
 80% through full stack mern project
 finish fullstack mern project 
 Started MongoDB Realtional Datatbases 
+preparing to deploy nodejs backedn on vps
