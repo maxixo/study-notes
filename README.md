@@ -38,3 +38,4 @@ finish fullstack mern project
 Started MongoDB CRUD operations Datatbases 
 preparing to deploy nodejs backedn on vps
 finalizing blog post on mern stack full app.
+start deploying dataworld
