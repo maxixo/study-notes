@@ -40,3 +40,5 @@ preparing to deploy nodejs backedn on vps
 finalizing blog post on mern stack full app.
 start deploying dataworld
 start php backend course
+Learning about loops , data types , comparison operators 
+Sanitizing and validating forms in php
