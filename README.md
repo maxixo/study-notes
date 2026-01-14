@@ -42,3 +42,4 @@ start deploying dataworld
 start php backend course
 Learning about loops , data types , comparison operators 
 Sanitizing and validating forms in php
+constants
