@@ -44,3 +44,4 @@ Learning about loops , data types , comparison operators
 Sanitizing and validating forms in php
 constants and variables , arrays 
 started collabedit (my-docs)
+exploring sql databases and postgresql.
