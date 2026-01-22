@@ -46,3 +46,4 @@ constants and variables , arrays
 started collabedit (my-docs)
 exploring sql databases and postgresql.
 started my blog scaffolding 
+halfway through php course 
