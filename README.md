@@ -47,3 +47,4 @@ started collabedit (my-docs)
 exploring sql databases and postgresql.
 started my blog scaffolding 
 halfway through php course 
+created blog admin page
