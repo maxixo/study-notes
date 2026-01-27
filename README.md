@@ -48,4 +48,5 @@ exploring sql databases and postgresql.
 started my blog scaffolding 
 halfway through php course 
 created blog admin page
-finish php course 
+finished php course
+implemented home page and blog post page  
