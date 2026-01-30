@@ -51,3 +51,4 @@ created blog admin page
 finished php course
 implemented home page and blog post page  
 wrote about dataworld
+halfway through blog
