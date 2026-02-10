@@ -53,3 +53,4 @@ implemented home page and blog post page
 wrote about dataworld
 halfway through blog
 halfway through mydocs
+finish blog at mvp
