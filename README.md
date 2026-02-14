@@ -54,3 +54,4 @@ wrote about dataworld
 halfway through blog
 halfway through mydocs
 finish blog at mvp
+setup domain name and resend 
