@@ -4,7 +4,7 @@ The latest source focuses on **String Manipulation** and **Dictionaries**, two e
 Strings are sequences of characters defined by single (`'`) or double (`"`) quotes. 
 
 *   **Handling Special Characters:** You can use the backslash (`\`) to "escape" characters like quotes or to create newlines (`\n`). Triple quotes (`"""`) allow for multi-line strings without explicit newline characters.
-*   **Strings as Sequences:** Like lists, you can index, slice, and use `len()` on strings. However, strings are **immutable**, meaning you cannot change their characters in place.
+*   **Strings as Sequences:** Like lists, you can index, slice, and use `len()` on strings. However, strings are **immutable**, meaning you cannot change their characters in place. here 
 *   **Key Methods:** 
     *   **Case & Search:** `.upper()`, `.lower()`, `.startswith()`, and `.endswith()`.
     *   **Split & Join:** `.split()` breaks a string into a list, while `.join()` sews a list of strings into one.
