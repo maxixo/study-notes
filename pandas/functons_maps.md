@@ -22,4 +22,4 @@ Speed: These operators are faster because they use internal pandas optimisations
 .
 Vectorization: You can perform operations between a whole Series and a single value (e.g., subtracting a mean from every row) or between two Series of equal length
 .
-Flexibility: While operators are faster, map() and apply() remain necessary for advanced tasks involving complex conditional logic
+Flexibility: While operators are faster, map() and apply() remain necessary for advanced tasks involving complex conditional logics
