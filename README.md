@@ -56,3 +56,4 @@ halfway through mydocs
 finish blog at mvp
 setup domain name and resend 
 finish python and intro to machine learning.
+finished pandas 
