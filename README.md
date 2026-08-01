@@ -57,3 +57,4 @@ finish blog at mvp
 setup domain name and resend 
 finish python and intro to machine learning.
 finished pandas 
+started data analysits fulentcy path , completed 4 courses 
