@@ -59,3 +59,4 @@ finish python and intro to machine learning.
 finished pandas 
 started data analysits fulentcy path , completed 4 courses 
 completed data anlaysis process microcourse 
+started ML
