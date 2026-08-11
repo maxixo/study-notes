@@ -60,3 +60,5 @@ finished pandas
 started data analysits fulentcy path , completed 4 courses 
 completed data anlaysis process microcourse 
 started ML
+Finish what is data science 
+updated llinkedin with certs
