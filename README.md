@@ -62,3 +62,4 @@ completed data anlaysis process microcourse
 started ML
 Finish what is data science 
 updated llinkedin with certs
+aaplied for new data science course 
